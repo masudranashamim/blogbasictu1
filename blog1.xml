@@ -2,6 +2,11 @@
 <head>
 <b:skin>
 	</b:skin>
+	<style>
+  #blog-pager{
+		display:none;
+}
+	</style>
 	</head>
 <body>
 	<b:section id="main" class="main" showaddelement="yes">
