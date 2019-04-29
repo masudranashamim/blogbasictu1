@@ -1,0 +1,12 @@
+<html>
+<head>
+<b:skin>
+	</b:skin>
+	</head>
+<body>
+	<b:section id="main" class="main" showaddelement="yes">
+		<b:widget id="Blog1" locked="true" title="BlogPosts" type="Blog">
+      </b:widget>
+      </b:section>
+	</body>
+	</html>
