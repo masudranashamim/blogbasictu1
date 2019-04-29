@@ -4,8 +4,7 @@
 	</b:skin>
 	<style>
   #blog-pager{
-		display:none;
-}
+		display:none;}.feed-links{display:none;}
 	</style>
 	</head>
 <body>
